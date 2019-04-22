@@ -1,0 +1,7 @@
+EXERCISE 2
+Using virual for the area function of shape becomes is to make it virtual and when any of this class will call area of shape, also called
+Exercise 4 
+shape *s1= new triangle(1.0,9.0, “Red”);  ---->>> // constructor of triangle will be invoked
+delete s1; //identify which destr
+
+only derived class destructors will be called for non virtual functions and parent class destructro for virtual
